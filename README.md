@@ -1,6 +1,6 @@
 # segundo-cerebro
 Criação de um NotebookLM para auxílio de tarefas
-O tema desde NotebookLM é Business Intellingece integrada à Gestão de custos aplicada no contexto de uma empresa do ramo de construção civil. O objetivo é nortear a implementação de ferramentas para controle de custos de obras.
+O tema desde NotebookLM é Business Intellingence integrada à Gestão de custos aplicada no contexto de uma empresa do ramo de construção civil. O objetivo é nortear a implementação de ferramentas para controle de custos de obras.
 
 O NotebookLM foi alimentado com artigos científicos de bases cientificamente confiáveis (advindos de revistas da área, repositórios de universidades e bases como Scholar Google e Research Gate) e com matérias/artigos de sites reconhecidamente atrelados à Tecnologia, como a Alura.
 
